@@ -1,0 +1,42 @@
+8
+H L L H L L L L
+H H L H Y L L H
+L H L H L L Y L
+H L L H L H L L
+H Y L H L L L L
+L H L H H L H L
+L L L H L L L L
+L X L H L H L L
+10
+H L L H L L L L L L
+H H L H Y L L H L L
+L H L H L L Y L L L
+H L L H L H L L L L
+H Y L H X L H H L L
+L H L H H L H L L L
+L L L H L L L L L L
+L L L H Y H L L L L
+L L L H L H L L L L
+L L L H H H L L L L
+10
+H L L H L L L L L L
+H H L H Y L L H L L
+L H L H L L Y L L L
+H L L H L H L L L L
+H Y L H L L H H L L
+L H L H H L H L L L
+L L L H L L L L L L
+L L L H Y H L L L L
+L L L H L H L L L L
+X L L H H H L L L L
+10
+H L L H L L L L L L
+H H L H Y L L H L L
+L H L H L L Y L L L
+H L L H L H L L L L
+H Y L H L L H H L L
+L H L H H L H L L L
+L L L H L L L L L L
+L L L H Y H L L L L
+L L L H L H L L L L
+L H H H X H H Y H L
