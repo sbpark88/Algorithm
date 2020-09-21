@@ -1,9 +1,10 @@
+// 3번 코드에서 ArrayList<Edge> mst와 PriorityQueue<Edge> pq를 모두 TreeSet<Edge>로 바꿈.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.TreeSet;
 
-// TreeSet
 public class Kruskal5 {
     static int V, E;                // V : 점, E : 변
     static TreeSet<Edge> mst;       // result값 Minimum spanning tree

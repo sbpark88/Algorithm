@@ -1,3 +1,5 @@
+// 3번 코드에서 ArrayList<Edge> mst를 HashSet<Edge>로, PriorityQueue<Edge> pq를 TreeSet<Edge>로 바꿈.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
