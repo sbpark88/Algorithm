@@ -2,5 +2,3 @@
 
 Algorithm practice
 
-Language : Java
-IDE : IntelliJ
